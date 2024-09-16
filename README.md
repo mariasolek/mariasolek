@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, me chamo Maria!
 
-<!--
-**mariasolek/mariasolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Estudando Ciência da Computação<br/>
+🩵 Robótica e desenvolvimento web<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do Github
+
+<a href="https://github.com/mariasolek/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariasolek&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/mariasolek/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariasolek&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a>
+
