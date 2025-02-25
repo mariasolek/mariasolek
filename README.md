@@ -1,8 +1,6 @@
 ## 👋 Olá, me chamo Maria!
 
 🖥️ Estudando Ciência da Computação<br/>
-🩵 Robótica e desenvolvimento web<br/>
-
 
 ### 📊 Estatísticas do Github
 
