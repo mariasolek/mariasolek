@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Maria!
 
 🖥️ Estudando Ciência da Computação na UFFS<br/>
-💓 Curto desenvolvimento web, design e robótica educacional.<br/>
+💓 Curto desenvolvimento web, design e robótica educacional<br/>
 
 ## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-clara-solek/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solekmariaclara2@gmail.com) 
